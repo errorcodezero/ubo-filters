@@ -1,0 +1,16 @@
+![Adblock Plus 2.0]
+! Title: Distractions | ErrorCode0
+! Homepage: https://github.com/errorcodezero/ubo-filters
+
+youtube.com
+*.youtube.com
+reddit.com
+*.reddit.com
+x.com
+*.x.com
+mas.to
+mastodon.social
+discord.com
+*discord.com
+slack.com
+*.slack.com
