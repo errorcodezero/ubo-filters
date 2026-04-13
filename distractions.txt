@@ -14,3 +14,4 @@ discord.com
 *discord.com
 slack.com
 *.slack.com
+shellshock.io
